@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bird drop"
+    },
+    {
+      "id": 1,
+      "name": "damaged"
+    },
+    {
+      "id": 2,
+      "name": "dusty"
+    },
+    {
+      "id": 3,
+      "name": "plant"
+    },
+    {
+      "id": 4,
+      "name": "shadow"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

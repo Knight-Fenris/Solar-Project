@@ -1,0 +1,5 @@
+bird drop
+damaged
+dusty
+plant
+shadow
